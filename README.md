@@ -52,6 +52,6 @@ shooter shoots a lazar bean which will reduce the movement speed of the enemy. A
 This is the sole enemy used in all the levels with different sizes and different health depletion rates. The enemy gets bigger and stronger for each level.
 
 ## References
-[1] **Game Strategy:** https://www.youtube.com/watch?v=beuoNuK2tbk&list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0&ab_channel=Brackeys
-[2] **Health Bar:** https://www.youtube.com/watch?v=BLfNP4Sc_iA&t=218s&ab_channel=Brackeys
-[3] **Saving Player Data:** https://www.youtube.com/watch?v=XOjd_qU2Ido&t=905s&ab_channel=Brackeys
+1. **Game Strategy:** https://www.youtube.com/watch?v=beuoNuK2tbk&list=PLPV2KyIb3jR4u5jX8za5iU1cqnQPmbzG0&ab_channel=Brackeys
+2. **Health Bar:** https://www.youtube.com/watch?v=BLfNP4Sc_iA&t=218s&ab_channel=Brackeys
+3. **Saving Player Data:** https://www.youtube.com/watch?v=XOjd_qU2Ido&t=905s&ab_channel=Brackeys
